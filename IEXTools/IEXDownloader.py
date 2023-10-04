@@ -22,7 +22,7 @@ class DataDownloader(object):
         Initiate the class with the IEX API endpoint information and
         initializes the folder to put the downloaded data into.
         """
-        self.base_endpoint = "https://api.iextrading.com/1.0/"
+        self.base_endpoint = "https://iextrading.com/api/1.0/"
 
         if path:
             self.directory = path

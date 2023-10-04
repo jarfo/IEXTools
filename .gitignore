@@ -1,4 +1,5 @@
 # Folder containing large examples of IEX pcap files
+IEX_data/
 IEX TOPS Sample/
 IEXTools/debug/
 .vscode/
